@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Huzaifa Tariq</h1>
 <h3 align="center">An AI/ML Enthusisat</h3>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m an **AI Intern** at **Software Productivity Solutions Inc**
 
 - 👯 I’m a student of **Computer Science**
 
