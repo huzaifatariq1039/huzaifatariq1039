@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Huzaifa Tariq</h1>
 <h3 align="center">An AI Engineer</h3>
 
-- 🌱 I’m currently learning **Advance Learning Algorithms for AI**
+- 🌱 As an AI Engineer, I **Solve real-world problems**
 
 - 👨‍💻 I was an AI intern at **Software Productivity Strategists Inc.**
 
