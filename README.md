@@ -3,7 +3,7 @@
 
 - 🌱 As an AI Engineer, I **Solve real-world problems using AI**
 
-- 👨‍💻 I am Co-Founder & coo **PulseQ**
+- 👨‍💻 I am Co-Founder & COO at **PulseQ**
 
 - 👨‍💻 All of my projects are available at [https://github.com/huzaifatariq1039](https://github.com/huzaifatariq1039)
 
