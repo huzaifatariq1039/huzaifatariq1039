@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Huzaifa Tariq</h1>
 <h3 align="center">An AI Engineer</h3>
 
-- 🌱 As an AI Engineer, I **Solve real-world problems**
+- 🌱 As an AI Engineer, I **Solve real-world problems using AI**
 
-- 👨‍💻 I was an AI intern at **Software Productivity Strategists Inc.**
+- 👨‍💻 I am Co-Founder & coo **PulseQ**
 
 - 👨‍💻 All of my projects are available at [https://github.com/huzaifatariq1039](https://github.com/huzaifatariq1039)
 
-- 💬 Ask me about **AI, Machine Learning**
+- 💬 Ask me about **AI, Machine Learning, LLMs, AI Agents, Deep Learning**
 
 - 📫 How to reach me **cadethuzaifatariq@gmail.com**
 
