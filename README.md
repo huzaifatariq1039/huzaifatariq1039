@@ -1,4 +1,4 @@
-<![CDATA[<div align="center">
+<div align="center">
 
 <!-- Animated Header -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%F0%9F%91%8B+Hey%2C+I'm+Huzaifa+Tariq;AI+Engineer+%7C+Co-Founder+%40+PulseQ" alt="Typing SVG" />
@@ -112,20 +112,6 @@ fun_fact: "I can build an AI that swims... but I can't 🏊"
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/huzaifatariq1039/huzaifatariq1039/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/huzaifatariq1039/huzaifatariq1039/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/huzaifatariq1039/huzaifatariq1039/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
----
-
 ## 🤝 Connect with Me
 
 <div align="center">
@@ -149,4 +135,3 @@ fun_fact: "I can build an AI that swims... but I can't 🏊"
 **⭐ If you find my projects useful, consider giving them a star!**
 
 </div>
-]]>
