@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Huzaifa%20Tariq&fontSize=60&fontColor=38BDF8&fontAlignY=38&desc=AI%20Engineer%20%7C%20Co-Founder%20%40%20PulseQ&descColor=94A3B8&descAlignY=58&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Huzaifa%20Tariq&fontSize=60&fontColor=38BDF8&fontAlignY=38&desc=AI%20Engineer%20%7C%20Co-Founder%20%40%20PulseQ%20%26%20Thrift%20Kro&descColor=94A3B8&descAlignY=58&animation=fadeIn" />
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=1200&color=38BDF8&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=🤖+Building+Intelligent+Systems+for+Real+Problems;🧠+AI+Agents+%7C+LLMs+%7C+Multi-Agent+Orchestration;⚡+Automating+the+Future%2C+One+Workflow+at+a+Time;🚀+Co-Founder+%26+CMO+%40+PulseQ)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=1200&color=38BDF8&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=🤖+Building+Intelligent+Systems+for+Real+Problems;🧠+AI+Agents+%7C+LLMs+%7C+Multi-Agent+Orchestration;⚡+Automating+the+Future%2C+One+Workflow+at+a+Time;🚀+Co-Founder+%26+CMO+%40+PulseQ;🛍️+Co-Founder+%26+CEO+%40+Thrift+Kro)](https://git.io/typing-svg)
 
 </div>
 
@@ -28,8 +28,12 @@
 class HuzaifaTariq:
     def __init__(self):
         self.name       = "Huzaifa Tariq"
-        self.role       = "AI Engineer & Co-Founder @ PulseQ"
+        self.role       = "AI Engineer & Serial Entrepreneur"
         self.location   = "Pakistan 🇵🇰"
+        self.startups   = {
+            "PulseQ":     "Co-Founder & CMO — AI-powered solutions for businesses",
+            "Thrift Kro": "Co-Founder & CEO — AI-powered eCommerce platform",
+        }
         self.focus      = [
             "AI Agents & Multi-Agent Systems",
             "LLM-powered Products",
@@ -50,6 +54,39 @@ me.say_hi()
 
 ---
 
+## 🏢 Startups I'm Building
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+### ⚡ PulseQ
+**Co-Founder & CMO**
+
+AI-powered solutions and intelligent automation for modern businesses. We help companies integrate LLMs, AI agents, and smart workflows to move faster and operate smarter.
+
+`AI Agents` `LLM Solutions` `Automation` `B2B`
+
+</td>
+<td width="50%" align="center">
+
+### 🛍️ Thrift Kro
+**Co-Founder & CEO**
+
+An AI-powered eCommerce platform redefining how people buy and sell. Smart recommendations, intelligent search, and automated seller tools — all driven by AI.
+
+`AI eCommerce` `Smart Recommendations` `NLP Search` `B2C`
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
 ## 🚀 What I'm Up To
 
 <table>
@@ -57,9 +94,9 @@ me.say_hi()
 <td width="50%">
 
 **🔭 Currently Building**
-- AI-powered automation systems at **PulseQ**
+- AI-powered automation systems at **PulseQ** *(Co-Founder & CMO)*
+- AI-powered eCommerce platform at **Thrift Kro** *(Co-Founder & CEO)*
 - Intelligent multi-agent pipelines with **LangChain & n8n**
-- LLM-based solutions for real business problems
 
 </td>
 <td width="50%">
@@ -208,8 +245,8 @@ Full-Stack Dev     ████████████░░░░░░░░ 
 - Product Strategy
 - Team Building
 - Business AI Consulting
-- Startup Operations (CMO)
-- Client Communication
+- Startup Operations (CMO @ PulseQ)
+- eCommerce Leadership (CEO @ Thrift Kro)
 - Technical Roadmapping
 
 </td>
@@ -224,12 +261,12 @@ Full-Stack Dev     ████████████░░░░░░░░ 
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=huzaifatariq1039&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=7C3AED&text_color=94A3B8&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifatariq1039&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=7C3AED&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=94A3B8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=huzaifatariq1039&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=7C3AED&text_color=94A3B8&count_private=true&include_all_commits=true&cache_seconds=86400" />
+<img width="49%" src="https://streak-stats.demolab.com?user=huzaifatariq1039&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=7C3AED&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=94A3B8" />
 
 <br/>
 
-<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifatariq1039&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8&langs_count=8" />
+<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifatariq1039&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8&langs_count=8&cache_seconds=86400" />
 
 </div>
 
@@ -239,7 +276,7 @@ Full-Stack Dev     ████████████░░░░░░░░ 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=huzaifatariq1039&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=huzaifatariq1039&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8&cache_seconds=86400" />
 
 </div>
 
@@ -249,7 +286,7 @@ Full-Stack Dev     ████████████░░░░░░░░ 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=huzaifatariq1039&bg_color=0D1117&color=38BDF8&line=7C3AED&point=38BDF8&area=true&area_color=7C3AED&hide_border=true&radius=8" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=huzaifatariq1039&bg_color=0D1117&color=38BDF8&line=7C3AED&point=38BDF8&area=true&area_color=7C3AED&hide_border=true&radius=8&cache_seconds=86400" />
 
 </div>
 
