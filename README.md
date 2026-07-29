@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=1200&color=38BDF8&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=🤖+Building+Intelligent+Systems+for+Real+Problems;🧠+AI+Agents+%7C+LLMs+%7C+Multi-Agent+Orchestration;⚡+Automating+the+Future%2C+One+Workflow+at+a+Time;🚀+Co-Founder+%26+COO+%40+PulseQ)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=1200&color=38BDF8&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=🤖+Building+Intelligent+Systems+for+Real+Problems;🧠+AI+Agents+%7C+LLMs+%7C+Multi-Agent+Orchestration;⚡+Automating+the+Future%2C+One+Workflow+at+a+Time;🚀+Co-Founder+%26+CMO+%40+PulseQ)](https://git.io/typing-svg)
 
 </div>
 
@@ -208,7 +208,7 @@ Full-Stack Dev     ████████████░░░░░░░░ 
 - Product Strategy
 - Team Building
 - Business AI Consulting
-- Startup Operations (COO)
+- Startup Operations (CMO)
 - Client Communication
 - Technical Roadmapping
 
