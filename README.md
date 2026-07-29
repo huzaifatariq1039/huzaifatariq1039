@@ -1,25 +1,14 @@
 <div align="center">
 
-<svg width="100%" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0f0c29"/>
-      <stop offset="50%" style="stop-color:#302b63"/>
-      <stop offset="100%" style="stop-color:#24243e"/>
-    </linearGradient>
-  </defs>
-  <rect width="900" height="200" fill="url(#bg)" rx="0"/>
-  <path d="M0,160 C150,100 300,180 450,140 C600,100 750,160 900,130 L900,200 L0,200 Z" fill="#38BDF8" opacity="0.08"/>
-  <path d="M0,175 C200,130 400,175 600,150 C750,130 850,160 900,145 L900,200 L0,200 Z" fill="#7C3AED" opacity="0.10"/>
-  <text x="450" y="95" font-family="monospace" font-size="46" font-weight="bold" fill="#38BDF8" text-anchor="middle">Huzaifa Tariq</text>
-  <text x="450" y="135" font-family="monospace" font-size="16" fill="#94A3B8" text-anchor="middle">AI Engineer · Co-Founder @ PulseQ &amp; Thrift Kro</text>
-</svg>
+![header](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=38&duration=1&pause=99999&color=38BDF8&center=true&vCenter=true&repeat=false&width=700&height=80&lines=Huzaifa+Tariq)
+
+![subheader](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=1&pause=99999&color=94A3B8&center=true&vCenter=true&repeat=false&width=700&height=30&lines=AI+Engineer+·+Co-Founder+%40+PulseQ+%26+Thrift+Kro+·+Pakistan+🇵🇰)
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=1200&color=38BDF8&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=🤖+Building+Intelligent+Systems+for+Real+Problems;🧠+AI+Agents+%7C+LLMs+%7C+Multi-Agent+Orchestration;⚡+Automating+the+Future%2C+One+Workflow+at+a+Time;🚀+Co-Founder+%26+CMO+%40+PulseQ;🛍️+Co-Founder+%26+CEO+%40+Thrift+Kro)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1200&color=38BDF8&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=🤖+Building+Intelligent+Systems+for+Real+Problems;🧠+AI+Agents+%7C+LLMs+%7C+Multi-Agent+Orchestration;⚡+Automating+the+Future%2C+One+Workflow+at+a+Time;🚀+Co-Founder+%26+CMO+%40+PulseQ;🛍️+Co-Founder+%26+CEO+%40+Thrift+Kro)](https://github.com/huzaifatariq1039)
 
 </div>
 
@@ -270,41 +259,6 @@ Full-Stack Dev     ████████████░░░░░░░░ 
 
 ---
 
-## 📊 GitHub Stats & Activity
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=huzaifatariq1039&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=7C3AED&text_color=94A3B8&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=huzaifatariq1039&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=7C3AED&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=94A3B8" />
-
-<br/>
-
-<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifatariq1039&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8&langs_count=8" />
-
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=huzaifatariq1039&theme=discord&no-frame=true&no-bg=true&column=6&margin-w=10" />
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/38BDF8/huzaifatariq1039" alt="Huzaifa's GitHub Contribution Chart" />
-
-</div>
-
----
-
 ## 🌐 Let's Connect & Build Together
 
 <div align="center">
@@ -329,27 +283,10 @@ Full-Stack Dev     ████████████░░░░░░░░ 
 
 > 💬 *"I don't just write code — I architect intelligence."*
 
-<br/>
-
-<svg width="100%" height="80" viewBox="0 0 900 80" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="footer-bg" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#24243e"/>
-      <stop offset="50%" style="stop-color:#302b63"/>
-      <stop offset="100%" style="stop-color:#0f0c29"/>
-    </linearGradient>
-  </defs>
-  <path d="M0,0 C150,50 300,10 450,40 C600,70 750,20 900,50 L900,80 L0,80 Z" fill="url(#footer-bg)"/>
-</svg>
-
-</div>
-
----
-
-<div align="center">
+<br/><br/>
 
 **⭐ Star my repos if they spark ideas — it fuels more open-source AI work!**
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=huzaifatariq1039&label=VISITORS&labelColor=%230D1117&countColor=%2338BDF8&style=for-the-badge)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=huzaifatariq1039&label=VISITORS&labelColor=%230D1117&countColor=%2338BDF8&style=for-the-badge)](https://github.com/huzaifatariq1039)
 
 </div>
