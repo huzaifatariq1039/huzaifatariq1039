@@ -1,6 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Huzaifa%20Tariq&fontSize=60&fontColor=38BDF8&fontAlignY=38&desc=AI%20Engineer%20%7C%20Co-Founder%20%40%20PulseQ%20%26%20Thrift%20Kro&descColor=94A3B8&descAlignY=58&animation=fadeIn" />
+<svg width="100%" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f0c29"/>
+      <stop offset="50%" style="stop-color:#302b63"/>
+      <stop offset="100%" style="stop-color:#24243e"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="200" fill="url(#bg)" rx="0"/>
+  <path d="M0,160 C150,100 300,180 450,140 C600,100 750,160 900,130 L900,200 L0,200 Z" fill="#38BDF8" opacity="0.08"/>
+  <path d="M0,175 C200,130 400,175 600,150 C750,130 850,160 900,145 L900,200 L0,200 Z" fill="#7C3AED" opacity="0.10"/>
+  <text x="450" y="95" font-family="monospace" font-size="46" font-weight="bold" fill="#38BDF8" text-anchor="middle">Huzaifa Tariq</text>
+  <text x="450" y="135" font-family="monospace" font-size="16" fill="#94A3B8" text-anchor="middle">AI Engineer · Co-Founder @ PulseQ &amp; Thrift Kro</text>
+</svg>
 
 </div>
 
@@ -261,12 +274,12 @@ Full-Stack Dev     ████████████░░░░░░░░ 
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=huzaifatariq1039&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=7C3AED&text_color=94A3B8&count_private=true&include_all_commits=true&cache_seconds=86400" />
-<img width="49%" src="https://streak-stats.demolab.com?user=huzaifatariq1039&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=7C3AED&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=94A3B8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=huzaifatariq1039&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=7C3AED&text_color=94A3B8&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=huzaifatariq1039&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=7C3AED&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=94A3B8" />
 
 <br/>
 
-<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifatariq1039&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8&langs_count=8&cache_seconds=86400" />
+<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifatariq1039&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8&langs_count=8" />
 
 </div>
 
@@ -276,7 +289,7 @@ Full-Stack Dev     ████████████░░░░░░░░ 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=huzaifatariq1039&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8&cache_seconds=86400" />
+<img src="https://github-profile-trophy.vercel.app/?username=huzaifatariq1039&theme=discord&no-frame=true&no-bg=true&column=6&margin-w=10" />
 
 </div>
 
@@ -286,7 +299,7 @@ Full-Stack Dev     ████████████░░░░░░░░ 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=huzaifatariq1039&bg_color=0D1117&color=38BDF8&line=7C3AED&point=38BDF8&area=true&area_color=7C3AED&hide_border=true&radius=8&cache_seconds=86400" />
+<img src="https://ghchart.rshah.org/38BDF8/huzaifatariq1039" alt="Huzaifa's GitHub Contribution Chart" />
 
 </div>
 
@@ -318,11 +331,16 @@ Full-Stack Dev     ████████████░░░░░░░░ 
 
 <br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
+<svg width="100%" height="80" viewBox="0 0 900 80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footer-bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#24243e"/>
+      <stop offset="50%" style="stop-color:#302b63"/>
+      <stop offset="100%" style="stop-color:#0f0c29"/>
+    </linearGradient>
+  </defs>
+  <path d="M0,0 C150,50 300,10 450,40 C600,70 750,20 900,50 L900,80 L0,80 Z" fill="url(#footer-bg)"/>
+</svg>
 
 </div>
 
